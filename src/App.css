@@ -1,0 +1,31 @@
+.app {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.user-list {
+  margin-top: 20px;
+}
+
+.user-item {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 10px;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.user-item h3 {
+  margin-top: 0;
+}
+
+.user-item p {
+  margin-bottom: 5px;
+}
+
+.user-item strong {
+  font-weight: bold;
+}
